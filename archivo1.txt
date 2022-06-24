@@ -2,3 +2,6 @@ Prueba Nahuel
 4 Clonar un repositorio remoto
 5 Trabajar en archivos diferentes (parte 1)
 6 Trabajar en archivos diferentes (parte 2)
+7 Trabajar en el mismo archivo
+8 Resolver un conflicto
+9 !Ejercitación libre!
