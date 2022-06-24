@@ -1,2 +1,6 @@
 Prueba Nahuel
 123123123213213
+4 Clonar un repositorio remoto
+5 Trabajar en archivos diferentes (parte 1)
+6 Trabajar en archivos diferentes (parte 2)
+
